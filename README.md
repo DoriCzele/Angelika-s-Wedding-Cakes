@@ -16,3 +16,9 @@ The clear and user-friendly layout of the website provides easy access to all ne
 Thank you for visiting!
 
 Should you have any questions regarding my project feel free to reach out to me via the provided GitHub contact details.
+
+---
+## Table of contents 
+- [**Angelika's Wedding Cakes**](#angelikas-wedding-cakes)
+  - [**Goal for this project**](#goal-for-this-project)
+  - [Table of contents](#table-of-contents)
