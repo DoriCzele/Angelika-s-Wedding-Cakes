@@ -22,3 +22,7 @@ Should you have any questions regarding my project feel free to reach out to me 
 - [**Angelika's Wedding Cakes**](#angelikas-wedding-cakes)
   - [**Goal for this project**](#goal-for-this-project)
   - [Table of contents](#table-of-contents)
+  - [**UX**](#ux)
+
+---
+## **UX**
