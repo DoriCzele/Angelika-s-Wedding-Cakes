@@ -29,3 +29,12 @@ Should you have any questions regarding my project feel free to reach out to me 
 ## **UX**
 
 ### User Goals
+
+* A website containing valuable information about the company
+* Website accessable and easy to use on desktop, tablet & mobile
+* Appealing, creative and simple design
+* Professional information about the company owner
+* Availability of references, customer reviews and pictures of previous work
+* Form to place an order through the website
+* Easily available contact details and location map
+* Direct links to the company's social media sites
