@@ -23,6 +23,9 @@ Should you have any questions regarding my project feel free to reach out to me 
   - [**Goal for this project**](#goal-for-this-project)
   - [Table of contents](#table-of-contents)
   - [**UX**](#ux)
+    - [User Goals](#user-goals)
 
 ---
 ## **UX**
+
+### User Goals
