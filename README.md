@@ -24,6 +24,7 @@ Should you have any questions regarding my project feel free to reach out to me 
   - [Table of contents](#table-of-contents)
   - [**UX**](#ux)
     - [User Goals](#user-goals)
+    - [User Stories](#user-stories)
 
 ---
 ## **UX**
@@ -41,3 +42,4 @@ Should you have any questions regarding my project feel free to reach out to me 
 
 [Back to Top](#table-of-contents)
 
+### User Stories
