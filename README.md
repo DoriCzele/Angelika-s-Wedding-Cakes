@@ -33,7 +33,7 @@ Should you have any questions regarding my project feel free to reach out to me 
 ### User Goals
 
 * A website containing valuable information about the company
-* Website accessable and easy to use on desktop, tablet & mobile
+* Website accessible and easy to use on desktop, tablet & mobile
 * Appealing, creative and simple design
 * Professional information about the company owner
 * Availability of references, customer reviews and pictures of previous work
@@ -56,3 +56,8 @@ Should you have any questions regarding my project feel free to reach out to me 
 [Back to Top](#table-of-contents)
 
 ### Site Owner's Goals
+
+* Advertise Wedding Cakes. 
+* Establish online presence of the company.
+* Increase and simplify orders via website.
+* Showcase previous works and reviews of customers.
