@@ -51,3 +51,5 @@ Should you have any questions regarding my project feel free to reach out to me 
 * As a user, I want the website to have an elegant and easy to nagivate design.
 * As a user, I want the website to be fully suitable for use on mobile phones and tablets as well as on desktop computers.
 * As a user, I want to be able to acccess relevant social media links from the website, and expect these to open on separate tabs.
+
+[Back to Top](#table-of-contents)
