@@ -25,6 +25,7 @@ Should you have any questions regarding my project feel free to reach out to me 
   - [**UX**](#ux)
     - [User Goals](#user-goals)
     - [User Stories](#user-stories)
+    - [Site Owner's Goals](#site-owners-goals)
 
 ---
 ## **UX**
@@ -53,3 +54,5 @@ Should you have any questions regarding my project feel free to reach out to me 
 * As a user, I want to be able to acccess relevant social media links from the website, and expect these to open on separate tabs.
 
 [Back to Top](#table-of-contents)
+
+### Site Owner's Goals
