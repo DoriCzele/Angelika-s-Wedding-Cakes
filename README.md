@@ -64,3 +64,5 @@ Should you have any questions regarding my project feel free to reach out to me 
 * Showcase previous works and reviews of customers.
   
 ### Design Choices
+
+The company is creating and selling wedding cakes, therefore the website's design choices reflect elegance and celebration. 
