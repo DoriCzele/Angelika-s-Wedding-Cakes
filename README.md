@@ -38,3 +38,6 @@ Should you have any questions regarding my project feel free to reach out to me 
 * Form to place an order through the website
 * Easily available contact details and location map
 * Direct links to the company's social media sites
+
+[Back to Top](#table-of-contents)
+
