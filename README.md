@@ -26,6 +26,7 @@ Should you have any questions regarding my project feel free to reach out to me 
     - [User Goals](#user-goals)
     - [User Stories](#user-stories)
     - [Site Owner's Goals](#site-owners-goals)
+    - [Design Choices](#design-choices)
 
 ---
 ## **UX**
@@ -61,3 +62,5 @@ Should you have any questions regarding my project feel free to reach out to me 
 * Establish online presence of the company.
 * Increase and simplify orders via website.
 * Showcase previous works and reviews of customers.
+  
+### Design Choices
