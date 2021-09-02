@@ -43,3 +43,11 @@ Should you have any questions regarding my project feel free to reach out to me 
 [Back to Top](#table-of-contents)
 
 ### User Stories
+
+* As a user, I want to be able to easily find information about the company and owner.
+* As a user, I want to be able to easily find the contact details and place an order via the website.
+* As a user, I want to see reviews, references and images about previous works.
+* As a user, I want to find easily where the company is located.
+* As a user, I want the website to have an elegant and easy to nagivate design.
+* As a user, I want the website to be fully suitable for use on mobile phones and tablets as well as on desktop computers.
+* As a user, I want to be able to acccess relevant social media links from the website, and expect these to open on separate tabs.
