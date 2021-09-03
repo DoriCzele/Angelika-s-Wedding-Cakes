@@ -27,6 +27,7 @@ Should you have any questions regarding my project feel free to reach out to me 
     - [User Stories](#user-stories)
     - [Site Owner's Goals](#site-owners-goals)
     - [Design Choices](#design-choices)
+      - [Colours](#colours)
 
 ---
 ## **UX**
@@ -66,3 +67,14 @@ Should you have any questions regarding my project feel free to reach out to me 
 ### Design Choices
 
 The company is creating and selling wedding cakes, therefore the website's design choices reflect elegance and celebration. 
+
+#### Colours
+
+![Colour Scheme](wireframes/colourscheme.png)
+
+* FFFFFF: White is used as a primary background colour to provide good visibility for text and images.
+* 79436E: The feature colour purple represent diversity, to make sure the design is equally appealing to all couples.
+* 583150: A darker purple used for header and footer. 
+* CBB26B: This golden colour represents luxury and celebrtation, present in the company logo.
+
+The colour palette was created via [Coolors](https://coolors.co/ "Coolors.co").
