@@ -28,6 +28,7 @@ Should you have any questions regarding my project feel free to reach out to me 
     - [Site Owner's Goals](#site-owners-goals)
     - [Design Choices](#design-choices)
       - [Colours](#colours)
+      - [Structure](#structure)
 
 ---
 ## **UX**
@@ -78,3 +79,6 @@ The company is creating and selling wedding cakes, therefore the website's desig
 * CBB26B: This golden colour represents luxury and celebrtation, present in the company logo.
 
 The colour palette was created via [Coolors](https://coolors.co/ "Coolors.co").
+
+#### Structure
+
