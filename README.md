@@ -82,3 +82,4 @@ The colour palette was created via [Coolors](https://coolors.co/ "Coolors.co").
 
 #### Structure
 
+The website's structure was created with the use of [Bootstrap](https://getbootstrap.com/) to ensure compatibility across various devices.
