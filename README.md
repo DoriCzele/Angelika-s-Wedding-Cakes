@@ -32,6 +32,7 @@ Should you have any questions regarding my project feel free to reach out to me 
       - [Logo](#logo)
       - [Fonts](#fonts)
       - [Icons](#icons)
+  - [**Wireframes**](#wireframes)
 
 ---
 ## **UX**
@@ -94,5 +95,8 @@ The company logo was created via [Looka](https://looka.com/s/71228605).
 #### Fonts
 
 #### Icons
+
+## **Wireframes**
+
 
 
