@@ -88,6 +88,8 @@ The website's structure was created with the use of [Bootstrap](https://getboots
 
 #### Logo
 
+The company logo was created via [Looka](https://looka.com/s/71228605). 
+
 #### Fonts
 
 
