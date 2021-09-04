@@ -31,6 +31,7 @@ Should you have any questions regarding my project feel free to reach out to me 
       - [Structure](#structure)
       - [Logo](#logo)
       - [Fonts](#fonts)
+      - [Icons](#icons)
 
 ---
 ## **UX**
@@ -91,5 +92,7 @@ The website's structure was created with the use of [Bootstrap](https://getboots
 The company logo was created via [Looka](https://looka.com/s/71228605). 
 
 #### Fonts
+
+#### Icons
 
 
