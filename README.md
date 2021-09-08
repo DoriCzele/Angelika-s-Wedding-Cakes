@@ -33,6 +33,10 @@ Should you have any questions regarding my project feel free to reach out to me 
       - [Fonts](#fonts)
       - [Icons](#icons)
   - [**Wireframes**](#wireframes)
+    - [Desktop Wireframe](#desktop-wireframe)
+    - [Tablet Wireframe](#tablet-wireframe)
+    - [Mobile Wireframe](#mobile-wireframe)
+  - [**Features**](#features)
 
 ---
 ## **UX**
@@ -98,5 +102,17 @@ The company logo was created via [Looka](https://looka.com/s/71228605).
 
 ## **Wireframes**
 
+The website's wireframes were created via [Balsamiq](https://balsamiq.com/wireframes/).
 
+Wireframes are available on the links below:
+
+### [Desktop Wireframe](wireframes/desktop-wireframe.png)
+
+### [Tablet Wireframe](wireframes/tablet-wireframe.png)
+
+### [Mobile Wireframe](wireframes/mobile-wireframe.png)
+
+[Back to Top](#table-of-contents)
+
+## **Features**
 
