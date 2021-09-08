@@ -37,6 +37,7 @@ Should you have any questions regarding my project feel free to reach out to me 
     - [Tablet Wireframe](#tablet-wireframe)
     - [Mobile Wireframe](#mobile-wireframe)
   - [**Features**](#features)
+      - [Navigation bar](#navigation-bar)
 
 ---
 ## **UX**
@@ -116,3 +117,6 @@ Wireframes are available on the links below:
 
 ## **Features**
 
+#### Navigation bar
+
+The responsive and user-friendly navigation bar was created via Bootstrap.  
