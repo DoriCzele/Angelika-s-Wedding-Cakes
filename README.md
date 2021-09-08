@@ -38,6 +38,7 @@ Should you have any questions regarding my project feel free to reach out to me 
     - [Mobile Wireframe](#mobile-wireframe)
   - [**Features**](#features)
       - [Navigation bar](#navigation-bar)
+      - [Home Section](#home-section)
 
 ---
 ## **UX**
@@ -120,3 +121,7 @@ Wireframes are available on the links below:
 #### Navigation bar
 
 The responsive and user-friendly navigation bar was created via Bootstrap.  
+
+#### Home Section
+
+The Home Section shows the company logo in 100% width.
