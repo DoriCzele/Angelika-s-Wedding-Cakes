@@ -103,6 +103,12 @@ The company logo was created via [Looka](https://looka.com/s/71228605).
 
 #### Icons
 
+* Fav icons were created via [Favicon.io](https://favicon.io/favicon-generator/) 
+- Font Title: Aguafina Script
+- Font Author: Copyright (c) 2007 Angel Koziupa (sudtipos@sudtipos.com), Copyright (c) 2007 Alejandro Paul (sudtipos@sudtipos.com), with Reserved Font Name "Aguafina Script"
+- Font Source: http://fonts.gstatic.com/s/aguafinascript/v9/If2QXTv_ZzSxGIO30LemWEOmt1bHqs4pgicOrg.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
+
 ## **Wireframes**
 
 The website's wireframes were created via [Balsamiq](https://balsamiq.com/wireframes/).
