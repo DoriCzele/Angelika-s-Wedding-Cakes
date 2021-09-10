@@ -1,3 +1,7 @@
 :root {
     --primary-purple: #79436e;
 }
+
+body {
+background-color:var(--primary-purple)
+}
