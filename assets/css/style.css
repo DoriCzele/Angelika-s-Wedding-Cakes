@@ -1,9 +1,10 @@
 :root {
     --primary-white: #ffff;
+    --secondary-purple: #79436E;
 }
 
 body {
-background-color:var(--primary-purple)
+background-color:var(--primary-white)
 }
 
 /* Signature below introduction */
