@@ -22,12 +22,13 @@ background-color:var(--primary-white)
     max-width: 100%;
 }
 
-/* Introduction text */
- .introduction{
+/* Paragraph style */
+p {
     color: black;
     text-align: center;
     font-family: 'Raleway', sans-serif;
-    padding-top: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 
 /* Styles applicable at display width greater than 768px */
@@ -42,37 +43,7 @@ background-color:var(--primary-white)
 
 /* Styles applicable at display width greater than 1024px */
 @media only screen and (min-width: 1024px) {
-    .introduction {
-        font-size: 1.5rem;
-    } 
-} 
-
-/* Reviews text */
-.reviewstext{
-    color: black;
-    font-family: 'Raleway', sans-serif;
-    padding-top: 5%;
-    padding-bottom: 5%;
-}
-
-/* Styles applicable at display width greater than 1024px */
-@media only screen and (min-width: 1024px) {
-    .reviewstext {
-        font-size: 1.5rem;
-    } 
-} 
-
-/* Reviews text */
-.ordertext{
-    color: black;
-    font-family: 'Raleway', sans-serif;
-    padding-top: 5%;
-    padding-bottom: 5%;
-}
-
-/* Styles applicable at display width greater than 1024px */
-@media only screen and (min-width: 1024px) {
-    .ordertext {
+    .larger-font {
         font-size: 1.5rem;
     } 
 } 
