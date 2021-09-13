@@ -46,3 +46,22 @@ background-color:var(--primary-white)
         font-size: 1.5rem;
     } 
 } 
+
+/* Reviews text */
+.reviewstext{
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+/* Styles applicable at display width greater than 1024px */
+@media only screen and (min-width: 1024px) {
+    .reviewstext {
+        font-size: 1.5rem;
+    } 
+} 
+
+h1{
+    padding-bottom: 5%;
+}
