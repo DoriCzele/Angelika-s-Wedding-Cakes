@@ -1,6 +1,6 @@
 :root {
     --primary-white: #FFFFFF;
-    --bright-purple: #79436E;
+    --light-purple: #79436E;
     --dark-purple: #583150;
     --accent-gold: #CBB26B;
 }
@@ -16,7 +16,7 @@
 
 /* Picture of Angelika in introduction */
 #angelika {
-    padding-bottom: 5%;
+    padding: 2.5% 0;
 }
 
 /* Paragraph style */
@@ -29,7 +29,10 @@ p {
 @media only screen and (min-width: 768px) {
     .introduction {
         padding: 10% 15% 0% 10%;
-    } 
+    }
+    form {
+        padding: 0 20%
+    }
 }
 
 /* Styles applicable at display width greater than 1024px */
@@ -53,8 +56,6 @@ label {
 
 .ordersheet-labels {
     text-align: left;
-    font-weight: bold;
-    padding-top: 5%;
 }
 
 #modal-box {
@@ -86,4 +87,20 @@ label {
   .footer a:first-child {
     border-left: 1px solid var(--accent-gold);
   }
-  
+
+.form-group {
+    padding-bottom: 5%;
+}
+
+#submit-button {
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    box-shadow: 0.1rem 0.1rem 0.2rem 0.05rem #2b2329b6;
+    border-radius: 0;
+    background-color: var(--light-purple);
+}
+
+#submit-button:hover {
+    background-color: var(--dark-purple);
+}
