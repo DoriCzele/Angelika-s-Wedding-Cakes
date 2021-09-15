@@ -73,3 +73,15 @@ label {
     text-align: left;
     font-family: 'Raleway', sans-serif;
 }
+
+#shopsign{
+    max-width:400px;
+}
+
+#map-container-google{
+    max-width:100%;
+}
+
+#map-container-google > iframe {
+    max-width:100%;
+}
