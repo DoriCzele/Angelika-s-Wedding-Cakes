@@ -279,7 +279,7 @@
                 Would you like to order your dream wedding cake?
               </p>
               <p>Fill out the order form below and I will get in touch!</p>
-              <p class="ordersheet-labels">Personal details</p>
+              <p class="weighted-text">Personal details</p>
               <form method="POST">
                 <div class="form-group">
                   <div class="form-row">
@@ -342,9 +342,9 @@
                 <div class="row">
                   <div class="col-12">
                     <div class="form-group">
-                      <p class="ordersheet-labels">Order sheet</p>
+                      <p class="weighted-text">Order sheet</p>
                       <!--Slices radio-->
-                      <p>Number of slices</p>
+                      <p class="ordersheet-labels">Number of slices</p>
                       <div class="form-check">
                         <input
                           class="form-check-input"
@@ -400,7 +400,7 @@
                     </div>
                     <!--Tiers picker-->
                     <div class="form-group col-md-6">
-                      <p>Number of tiers</p>
+                      <p class="ordersheet-labels">Number of tiers</p>
                       <select class="custom-select" required>
                         <option value="">Select tiers</option>
                         <option value="1">1</option>
@@ -413,22 +413,19 @@
                     </div>
                     <!--Flavour picker-->
                     <div class="form-group col-md-6">
-                      <p>Flavour</p>
+                      <p class="ordersheet-labels">Flavour</p>
                       <select class="custom-select" required>
                         <option value="">Select flavour</option>
                         <option value="1">Chocolate Raspberry Truffle</option>
                         <option value="2">Salted Caramel</option>
                         <option value="3">Black Forest</option>
                       </select>
-                      <div class="invalid-feedback">
-                        Choose a flavour before submitting!
-                      </div>
                     </div>
                   </div>
                 </div>
                 <!--Text area-->
                 <div class="form-group">
-                  <label for="textarea">Message</label>
+                  <p class="ordersheet-labels">Message</p>
                   <textarea
                     class="form-control"
                     id="textarea"
