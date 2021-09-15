@@ -57,5 +57,11 @@ label {
     font-weight: bold;
     font-size: 2rem;
     padding-top: 5%;
-    padding-bottom: 5%;
+    padding-bottom: 2%;
+}
+
+.personaldetails{
+    text-align: left;
+    font-weight: bold;
+    padding-top: 5%;
 }
