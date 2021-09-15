@@ -353,8 +353,20 @@
                       Other:
                     </label>
                   </div>
-                  <div class="form-group">
-                    <p>Select the flavour</p>
+                  <div class="form-group col-md-6">
+                    <p>Number of tiers</p>
+                    <select class="custom-select" required>
+                      <option value="">Select here</option>
+                      <option value="1">1</option>
+                      <option value="2">2</option>
+                      <option value="3">3</option>
+                    </select>
+                    <div class="invalid-feedback">
+                      Choose the number of tiers before submitting!
+                    </div>
+                  </div>
+
+                  <div class="form-group col-md-6">
                     <select class="custom-select" required>
                       <option value="">Select a flavour here</option>
                       <option value="1">Chocolate Raspberry Truffle</option>
