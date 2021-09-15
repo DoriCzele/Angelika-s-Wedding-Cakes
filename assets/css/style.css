@@ -66,3 +66,10 @@ label {
     font-weight: bold;
     padding-top: 5%;
 }
+
+#modalbox{
+    background-color: #79436e4b;
+    color: black;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+}
