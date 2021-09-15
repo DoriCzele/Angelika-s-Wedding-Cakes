@@ -27,8 +27,7 @@ p {
     color: black;
     text-align: center;
     font-family: 'Raleway', sans-serif;
-    padding-top: 5%;
-    padding-bottom: 5%;
+  
 }
 
 /* Styles applicable at display width greater than 768px */
@@ -47,3 +46,16 @@ p {
         font-size: 1.5rem;
     } 
 } 
+
+label {
+    color: black;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+}
+
+.boldtext{
+    font-weight: bold;
+    font-size: 2rem;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
