@@ -268,7 +268,7 @@
               <p class="boldtext">Would you like to order your dream wedding cake?</p>
               <p>Fill out the order form below and I will get in touch!</p>
               <p class="ordersheet-labels">Personal details</p>
-              <form method="POST">
+              <form method="POST" class="was-validated">
                 <div class="form-row">
                   <div class="form-group col-md-6">
                     <label for="firstname">First name:</label>
@@ -339,7 +339,34 @@
                       24 Slices
                     </label>
                   </div>
-                  <p class="ordersheet-labels">Order sheet</p>
+
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="radios" id="radio3" value="option3">
+                    <label class="form-check-label" for="radio3">
+                      36 Slices
+                    </label>
+                  </div>
+
+                   <div class="form-check">
+                    <input class="form-check-input" type="radio" name="radios" id="radio3" value="option3">
+                    <label class="form-check-label" for="radio3">
+                      Other:
+                    </label>
+                  </div>
+                  <div class="form-group">
+                    <p>Select the flavour</p>
+                    <select class="custom-select" required>
+                      <option value="">Select a flavour here</option>
+                      <option value="1">Chocolate Raspberry Truffle</option>
+                      <option value="2">Salted caramel</option>
+                      <option value="3">Black forest</option>
+                    </select>
+                    <div class="invalid-feedback">Choose a flavour before submitting!</div>
+                  </div>
+                  </div>
+                </div>
+                </div>
+
                   </div>
                 </div>
               </form>
