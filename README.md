@@ -40,6 +40,7 @@ Should you have any questions regarding my project feel free to reach out to me 
     - [Navigation bar](#navigation-bar)
     - [Home Section](#home-section)
     - [Introduction Section](#introduction-section)
+    - [Gallery Section](#gallery-section)
 
 ---
 ## **UX**
@@ -136,4 +137,8 @@ The Home Section shows the company logo in 100% width.
 ### Introduction Section
 
 The Introduction Section was created via the Bootstrap grid system, contains a fluid container with one row and two columns to separate image from text on desktop view. On mobile version the text is directly under the image.
+
+### Gallery Section
+
+Gallery Section contains slides with controls, created via Bootstrap carousel.
 
