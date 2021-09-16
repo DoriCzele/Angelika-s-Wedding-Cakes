@@ -139,7 +139,7 @@ The Home Section shows the company logo in 100% width.
 
 ### Introduction Section
 
-The Introduction Section was created via the Bootstrap grid system, contains a fluid container with one row and two columns to separate image from text on desktop view. On mobile version the text is directly under the image.
+The Introduction Section is created via the Bootstrap grid system, contains a fluid container with one row and two columns to separate image from text on desktop view. On mobile version the text is directly under the image.
 
 ### Gallery Section
 
@@ -147,11 +147,11 @@ Gallery Section contains slides with controls, created via Bootstrap carousel.
 
 ### Reviews Section
 
-The Reviews Section was created via the Bootstrap grid system, contains a fluid container with one row and three columns to separate the reviews on desktop view. On mobile version the reviews are aligned under each other.
+The Reviews Section is created via the Bootstrap grid system, contains a fluid container with one row and three columns to separate the reviews on desktop view. On mobile version the reviews are aligned under each other.
 
 ### Order Section
 
-The Order Section was created via Bootstrap form elements. It is devided into two parts, the Personal details and the Order sheet. Personal details part contain multiple inputs and a datepicker was implemented via the use of JavaScript. The order sheet part contains input options of Bootstrap radio buttons and dropdown selectors, as well as a message box with a submit button. The submit button triggers a modal to feedback successful submission to the user.
+The Order Section is created via Bootstrap form elements. It is devided into two parts, the Personal details and the Order sheet. Personal details part contain multiple inputs and a datepicker was implemented via the use of JavaScript. The order sheet part contains input options of Bootstrap radio buttons and dropdown selectors, as well as a message box with a submit button. The submit button triggers a modal to feedback successful submission to the user.
 
 ### Contact Us Section
 
