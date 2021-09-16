@@ -37,9 +37,9 @@ Should you have any questions regarding my project feel free to reach out to me 
     - [Tablet Wireframe](#tablet-wireframe)
     - [Mobile Wireframe](#mobile-wireframe)
   - [**Features**](#features)
-      - [Navigation bar](#navigation-bar)
-      - [Home Section](#home-section)
-      - [Introduction Section](#introduction-section)
+    - [Navigation bar](#navigation-bar)
+    - [Home Section](#home-section)
+    - [Introduction Section](#introduction-section)
 
 ---
 ## **UX**
@@ -125,12 +125,15 @@ Wireframes are available on the links below:
 
 ## **Features**
 
-#### Navigation bar
+### Navigation bar
 
 The responsive and user-friendly navigation bar was created via Bootstrap.  
 
-#### Home Section
+### Home Section
 
 The Home Section shows the company logo in 100% width.
 
-#### Introduction Section
+### Introduction Section
+
+The Introduction Section was created via the Bootstrap grid system, contains a fluid container with one row and two columns to separate image from text on desktop view. On mobile version the text is directly under the image.
+
