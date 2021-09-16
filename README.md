@@ -41,6 +41,7 @@ Should you have any questions regarding my project feel free to reach out to me 
     - [Home Section](#home-section)
     - [Introduction Section](#introduction-section)
     - [Gallery Section](#gallery-section)
+    - [Reviews Section](#reviews-section)
 
 ---
 ## **UX**
@@ -141,4 +142,8 @@ The Introduction Section was created via the Bootstrap grid system, contains a f
 ### Gallery Section
 
 Gallery Section contains slides with controls, created via Bootstrap carousel.
+
+### Reviews Section
+
+The Reviews Section was created via the Bootstrap grid system, contains a fluid container with one row and three columns to separate the reviews on desktop view. On mobile version the reviews are aligned under each other.
 
