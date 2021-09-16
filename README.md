@@ -1,5 +1,5 @@
 # **Angelika's Wedding Cakes**
-![Mockup image](./assets/images/mockup-image.jpgwireframes/mockup-image.png)
+![Mockup image](./assets/images/mockup-image.jpg)
 
 ## **Goal for this project**
 
@@ -82,7 +82,7 @@ The company is creating and selling wedding cakes, therefore the website's desig
 
 #### Colours
 
-![Colour Scheme](wireframes/colourscheme.png)
+![Colour Scheme](./assets/images/colourscheme.png)
 
 * FFFFFF: White is used as a primary background colour to provide good visibility for text and images.
 * 79436E: The feature colour purple represent diversity, to make sure the design is equally appealing to all couples.
