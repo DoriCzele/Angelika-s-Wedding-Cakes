@@ -42,6 +42,7 @@ Should you have any questions regarding my project feel free to reach out to me 
     - [Introduction Section](#introduction-section)
     - [Gallery Section](#gallery-section)
     - [Reviews Section](#reviews-section)
+    - [Order Section](#order-section)
 
 ---
 ## **UX**
@@ -147,3 +148,6 @@ Gallery Section contains slides with controls, created via Bootstrap carousel.
 
 The Reviews Section was created via the Bootstrap grid system, contains a fluid container with one row and three columns to separate the reviews on desktop view. On mobile version the reviews are aligned under each other.
 
+### Order Section
+
+The Order Section was created via Bootstrap form elements. It is devided into two parts, the Personal details and the Order sheet. Personal details part contain multiple inputs and a datepicker was implemented via the use of JavaScript. The order sheet part contains input options of Bootstrap radio buttons and dropdown selectors, as well as a message box with a submit button. The submit button triggers a modal to feedback successful submission to the user.
