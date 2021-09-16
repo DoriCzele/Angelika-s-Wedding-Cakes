@@ -1,5 +1,5 @@
 # **Angelika's Wedding Cakes**
-![Mockup image](wireframes/mockup-image.png)
+![Mockup image](./assets/images/mockup-image.jpgwireframes/mockup-image.png)
 
 ## **Goal for this project**
 
