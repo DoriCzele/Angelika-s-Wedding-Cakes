@@ -104,3 +104,8 @@ label {
 #submit-button:hover {
     background-color: var(--dark-purple);
 }
+
+#collapsible-navbar{
+   font-size: 1.1rem;
+    font-family: 'Raleway', sans-serif;
+}
