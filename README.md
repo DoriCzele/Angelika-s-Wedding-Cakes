@@ -43,6 +43,7 @@ Should you have any questions regarding my project feel free to reach out to me 
     - [Gallery Section](#gallery-section)
     - [Reviews Section](#reviews-section)
     - [Order Section](#order-section)
+    - [Contact Us Section](#contact-us-section)
 
 ---
 ## **UX**
@@ -151,3 +152,8 @@ The Reviews Section was created via the Bootstrap grid system, contains a fluid 
 ### Order Section
 
 The Order Section was created via Bootstrap form elements. It is devided into two parts, the Personal details and the Order sheet. Personal details part contain multiple inputs and a datepicker was implemented via the use of JavaScript. The order sheet part contains input options of Bootstrap radio buttons and dropdown selectors, as well as a message box with a submit button. The submit button triggers a modal to feedback successful submission to the user.
+
+### Contact Us Section
+
+The Contact Us Section contains a fluid container with one row. Within the row the first column contains the paragraph headline, the second contains the contact information and integrated google map, the third one contains an image of the shop sign.
+
