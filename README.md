@@ -93,25 +93,23 @@ The company is creating and selling wedding cakes, therefore the website's desig
 * 583150: A darker purple used for header and footer. 
 * CBB26B: This golden colour represents luxury and celebrtation, present in the company logo.
 
-The colour palette was created via [Coolors](https://coolors.co/ "Coolors.co").
+The colour palette is created via [Coolors](https://coolors.co/ "Coolors.co").
 
 #### Structure
 
-The website's structure was created with the use of [Bootstrap](https://getbootstrap.com/) to ensure compatibility across various devices.
+The website's structure is created with the use of [Bootstrap](https://getbootstrap.com/) to ensure compatibility across various devices.
 
 #### Logo
 
-The company logo was created via [Looka](https://looka.com/s/71228605). 
+The company logo is created via [Looka](https://looka.com/s/71228605). 
 
 #### Fonts
 
+Fonts are customised via [Google Fonts](https://fonts.google.com)
+
 #### Icons
 
-* Fav icons were created via [Favicon.io](https://favicon.io/favicon-generator/) 
-- Font Title: Aguafina Script
-- Font Author: Copyright (c) 2007 Angel Koziupa (sudtipos@sudtipos.com), Copyright (c) 2007 Alejandro Paul (sudtipos@sudtipos.com), with Reserved Font Name "Aguafina Script"
-- Font Source: http://fonts.gstatic.com/s/aguafinascript/v9/If2QXTv_ZzSxGIO30LemWEOmt1bHqs4pgicOrg.ttf
-- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
+Fav icons are created via [Favicon.io](https://favicon.io/favicon-generator/) 
 
 ## **Wireframes**
 
