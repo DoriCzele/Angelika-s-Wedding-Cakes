@@ -45,6 +45,7 @@ Should you have any questions regarding my project feel free to reach out to me 
     - [Order Section](#order-section)
     - [Contact Us Section](#contact-us-section)
   - [**Deployment**](#deployment)
+  - [**Credits**](#credits)
 
 ---
 ## **UX**
@@ -93,8 +94,6 @@ The company is creating and selling wedding cakes, therefore the website's desig
 * 79436E: The feature colour purple represent diversity, to make sure the design is equally appealing to all couples.
 * 583150: A darker purple used for header and footer. 
 * CBB26B: This golden colour represents luxury and celebrtation, present in the company logo.
-
-The colour palette is created via [Coolors](https://coolors.co/ "Coolors.co").
 
 #### Structure
 
@@ -174,6 +173,27 @@ To run the project locally:
 1. Open your IDE, and ensure the Git Terminal is open.
 1. Change the working directory to the location where the cloned directory is to go.
 1. Use the **"git clone" command** and paste the url copied in the second step.
+
+
+[Back to Top](#table-of-contents)
+
+## **Credits**
+
+* The colour palette was created via [Coolors](https://coolors.co/ "Coolors.co").
+
+* The website's structure was created via [Bootstrap](https://getbootstrap.com/).
+
+* The hero image was created via [Looka](https://looka.com/s/71228605). 
+
+* The following Google Fonts were used:
+    [Raleway](https://fonts.google.com/specimen/Raleway) and
+    [Fuggles](https://fonts.google.com/specimen/Fuggles).
+    
+* Fav icons were created via [Favicon.io](https://favicon.io/favicon-generator/),  Font license is available at [SIL Open Font License, 1.1](http://scripts.sil.org/OFL)).
+
+* Wireframes were created via [Balsamiq](https://balsamiq.com/wireframes/).
+
+* Images were downloaded from [Unsplash](https://unsplash.com/) and [Pexels](https://www.pexels.com).
 
 
 [Back to Top](#table-of-contents)
