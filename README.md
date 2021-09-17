@@ -44,6 +44,7 @@ Should you have any questions regarding my project feel free to reach out to me 
     - [Reviews Section](#reviews-section)
     - [Order Section](#order-section)
     - [Contact Us Section](#contact-us-section)
+  - [**Deployment**](#deployment)
 
 ---
 ## **UX**
@@ -155,3 +156,24 @@ The Order Section is created via Bootstrap form elements. It is devided into two
 
 The Contact Us Section contains a fluid container with one row. Within the row the first column contains the paragraph headline, the second contains the contact information and integrated google map, the third one contains an image of the shop sign.
 
+## **Deployment**
+
+This project was deployed via GitHub by executing following the steps below.
+
+1. Commit and push code to GitHub.
+2. Navigate to the repository on github and click on **Settings**.
+3. Go to **Source section** within the Github Pages section.
+4. Select **master branch** on the dropdown menu, and click save.
+5. Now the website is live on **https://doriczele.github.io/Angelika-s-Wedding-Cakes/**
+6. Any time commits and pushes are sent to Github, the Github Pages site should update shortly after.
+
+To run the project locally:
+
+1. Click the **green Clone or Download button** on the Github Repository
+1. Using the **Clone with HTTPS option**, copy the link displayed.
+1. Open your IDE, and ensure the Git Terminal is open.
+1. Change the working directory to the location where the cloned directory is to go.
+1. Use the **"git clone" command** and paste the url copied in the second step.
+
+
+[Back to Top](#table-of-contents)
