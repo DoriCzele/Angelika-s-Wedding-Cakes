@@ -47,6 +47,7 @@ Should you have any questions regarding my project feel free to reach out to me 
     - [**Features**](#features-1)
   - [**Technologies used**](#technologies-used)
     - [**Languages**](#languages)
+    - [**Tools**](#tools)
   - [**Deployment**](#deployment)
   - [**Credits**](#credits)
 
@@ -173,6 +174,14 @@ The Contact Us Section contains a fluid container with one row. Within the row t
 * [HTML](https://en.wikipedia.org/wiki/HTML)
 * [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+
+[Back to Top](#table-of-contents)
+
+### **Tools**
+* [GitHub](https://github.com/)
+* [W3C HTML Validation Service](https://validator.w3.org/)
+* [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+* [Tiny PNG](https://tinypng.com/)
 
 [Back to Top](#table-of-contents)
 
