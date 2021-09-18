@@ -45,6 +45,8 @@ Should you have any questions regarding my project feel free to reach out to me 
     - [Order Section](#order-section)
     - [Contact Us Section](#contact-us-section)
     - [**Features**](#features-1)
+  - [**Technologies used**](#technologies-used)
+    - [**Languages**](#languages)
   - [**Deployment**](#deployment)
   - [**Credits**](#credits)
 
@@ -165,8 +167,14 @@ The Contact Us Section contains a fluid container with one row. Within the row t
 
 [Back to Top](#table-of-contents)
 
+## **Technologies used**
+### **Languages**
 
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
+[Back to Top](#table-of-contents)
 
 ## **Deployment**
 
