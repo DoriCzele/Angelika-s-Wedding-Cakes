@@ -7,7 +7,7 @@
     --accent-gold: #CBB26B;
 }
 
-html{
+html {
     scroll-behavior: smooth;  
 }
 
@@ -30,23 +30,6 @@ p {
     text-align: center;
     font-family: 'Raleway', sans-serif;
 }
-
-/* Styles applicable at display width greater than 768px */
-@media only screen and (min-width: 768px) {
-    .introduction {
-        padding: 10% 15% 0% 10%;
-    }
-    form {
-        padding: 0 20%
-    }
-}
-
-/* Styles applicable at display width greater than 1024px */
-@media only screen and (min-width: 1024px) {
-    .larger-font {
-        font-size: 1.5rem;
-    } 
-} 
 
 label {
     text-align: left;
@@ -113,7 +96,7 @@ label {
 
 
 /*Navbar*/
-#collapsible-navbar{
+#collapsible-navbar {
    font-size: 1.1rem;
     font-family: 'Raleway', sans-serif;
 }
@@ -129,3 +112,20 @@ label {
 .nav-link, .nav-link:active{
     color: var(--light-purple) !important;
 }
+
+/* Styles applicable at display width greater than 768px */
+@media only screen and (min-width: 768px) {
+    .introduction {
+        padding: 10% 15% 0% 10%;
+    }
+    form {
+        padding: 0 20%
+    }
+}
+
+/* Styles applicable at display width greater than 1024px */
+@media only screen and (min-width: 1024px) {
+    .larger-font {
+        font-size: 1.5rem;
+    } 
+} 
