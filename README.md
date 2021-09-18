@@ -48,6 +48,8 @@ Should you have any questions regarding my project feel free to reach out to me 
   - [**Technologies used**](#technologies-used)
     - [**Languages**](#languages)
     - [**Tools**](#tools)
+  - [**Testing**](#testing)
+    - [Navigation bar](#navigation-bar-1)
   - [**Deployment**](#deployment)
   - [**Credits**](#credits)
 
@@ -184,6 +186,30 @@ The Contact Us Section contains a fluid container with one row. Within the row t
 * [Tiny PNG](https://tinypng.com/)
 
 [Back to Top](#table-of-contents)
+
+## **Testing**
+
+### Navigation bar
+
+* **Plan**    
+Include a fixed navigation bar on top with the use of scrollspy and smooth scroll-behaviour to improve user experience. In order to simplify the use of navigation bar on mobile devices a hamburger sign with a dropdown menu is implemented.
+
+* **Implementation**   
+A navigation bar was implemented via Bootstrap, scrollspy and smooth scroll behaviour added as well as hamburger icon on mobile view. In order to achieve better contrast and visibility the text colour of the navigation bar was changed via overwriting the Bootstrap design with the !important attribute in css.
+
+* **Test**    
+Manual testing was used to make sure the navigation bar is fully functional.
+Cross-browser testing was used to ensure the navigation bar works across all applications. Browsers used for testing: Safari, Google Chrome, Firefox.
+ The navigation bar was also tested in responsive design mode on mobile and tablet devices as well as on desktop. Scrollsp and smooth scroll behaviour was also tested.
+
+* **Result**    
+  
+The navigation bar and all links are fully functional as expected across all browsers and devices.
+The smooth-scroll behaviour doesn't work on Safari browser, which is possibly due to the application. 
+
+* **Verdict**    
+The test has passed and all criteria achieved.
+
 
 ## **Deployment**
 
