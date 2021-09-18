@@ -50,6 +50,7 @@ Should you have any questions regarding my project feel free to reach out to me 
     - [**Tools**](#tools)
   - [**Testing**](#testing)
     - [Navigation bar](#navigation-bar-1)
+    - [Gallery](#gallery)
   - [**Deployment**](#deployment)
   - [**Credits**](#credits)
 
@@ -206,6 +207,25 @@ Cross-browser testing was used to ensure the navigation bar works across all app
   
 The navigation bar and all links are fully functional as expected across all browsers and devices.
 The smooth-scroll behaviour doesn't work on Safari browser, which is possibly due to the application. 
+
+* **Verdict**    
+The test has passed and all criteria achieved.
+
+### Gallery
+
+* **Plan**    
+Include a responsive gallery to showcase previous works.
+
+* **Implementation**   
+A gallery was implemented via Bootstrap carousel, contains multiple slides with controls.
+
+* **Test**    
+Manual testing was used across multiple browsers (Safari, Google Chrome, Firefox) to make sure the previous and next controls of the carousel are fully functional.
+The gallery was also tested in responsive design mode on mobile and tablet devices as well as on desktop.
+
+* **Result**    
+  
+The gallery and both controls are fully functional as expected across all browsers and devices.
 
 * **Verdict**    
 The test has passed and all criteria achieved.
