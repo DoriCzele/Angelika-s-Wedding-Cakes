@@ -51,6 +51,9 @@ Should you have any questions regarding my project feel free to reach out to me 
   - [**Testing**](#testing)
     - [Navigation bar](#navigation-bar-1)
     - [Gallery](#gallery)
+    - [Order form](#order-form)
+    - [Bugs](#bugs)
+    - [Lighthouse benchmarking](#lighthouse-benchmarking)
   - [**Deployment**](#deployment)
   - [**Credits**](#credits)
 
@@ -230,6 +233,35 @@ The gallery and both controls are fully functional as expected across all browse
 * **Verdict**    
 The test has passed and all criteria achieved.
 
+### Order form
+
+* **Plan**    
+Include an order form that allows customers to directly place an order through the website. A modal feedback to ensure customers that the order was successfully submitted.
+
+* **Implementation**
+The order form was implemented via Bootstrap forms, using multiple input areas, radio buttons and dropdown selectors. 
+
+* **Test**    
+Manual testing was used across multiple browsers (Safari, Google Chrome, Firefox) to make sure the modal works accordingly and all input areas, radio buttons and dropdown selectors are fully functional within the form. 
+The form was also tested in responsive design mode on mobile and tablet devices as well as on desktop.
+
+* **Result**    
+  
+The order form works as expected from front-end aspect across all browsers and devices.
+There are no validation settings implemented, therefore the form can be submitted with no or incorrect input. POST method was not inmplemented at this point in time due to missing the necessary JavaScript elements.
+
+* **Verdict**    
+The test has passed and all criteria achieved.
+
+### Bugs
+-Navbar z-index colliding with the datepiocker icon.
+-Had to add a top margin to the banner as when the navbar has been changed to fixed it partially covered the hero image
+
+### Lighthouse benchmarking
+
+The Google Chrome Lighthouse highlighted multiple elements that woul benefit from aria labels for accessibility so these were added.
+
+[Back to Top](#table-of-contents)
 
 ## **Deployment**
 
