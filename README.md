@@ -53,7 +53,7 @@ Should you have any questions regarding my project feel free to reach out to me 
     - [Gallery](#gallery)
     - [Order form](#order-form)
     - [Bugs](#bugs)
-    - [Lighthouse benchmarking](#lighthouse-benchmarking)
+    - [Benchmarking and validation](#benchmarking-and-validation)
   - [**Deployment**](#deployment)
   - [**Credits**](#credits)
 
@@ -254,12 +254,16 @@ There are no validation settings implemented, therefore the form can be submitte
 The test has passed and all criteria achieved.
 
 ### Bugs
--Navbar z-index colliding with the datepiocker icon.
+-Navigation bar z-index colliding with the datepiocker icon.
 -Had to add a top margin to the banner as when the navbar has been changed to fixed it partially covered the hero image
 
-### Lighthouse benchmarking
+### Benchmarking and validation
 
 The Google Chrome Lighthouse highlighted multiple elements that woul benefit from aria labels for accessibility so these were added.
+
+The W3C CSS Validator found no errors.
+
+The W3C HTML Validator indicated issues with aria-labelledby attribute and unnecessary type attribute, both have been corrected.
 
 [Back to Top](#table-of-contents)
 
