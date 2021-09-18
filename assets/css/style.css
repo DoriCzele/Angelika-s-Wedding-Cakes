@@ -109,6 +109,8 @@ label {
     background-color: var(--dark-purple);
 }
 
+
+/*Navbar*/
 #collapsible-navbar{
    font-size: 1.1rem;
     font-family: 'Raleway', sans-serif;
@@ -121,6 +123,7 @@ label {
     z-index: 2;  
 }
 
-.nav-link {
-    color: var(--dark-purple);
+/* !important to override Bootstrap stylesheet */
+.nav-link, .nav-link:active{
+    color: var(--light-purple) !important;
 }
