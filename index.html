@@ -8,7 +8,6 @@
       rel="stylesheet"
       href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
     />
-
     <!--Favicon-->
     <link
       rel="shortcut icon"
@@ -17,7 +16,6 @@
       href="assets/favicon/favicon-32x32.png"
     />
     <!--Datepicker Utilities-->
-
     <link
       href="https://unpkg.com/gijgo@1.9.13/css/gijgo.min.css"
       rel="stylesheet"
@@ -39,6 +37,7 @@
       <nav class="navbar navbar-expand-md bg-light navbar-light">
         <!-- Collapsible Button -->
         <button
+          aria-label="menu"
           class="navbar-toggler mr-auto my-auto"
           type="button"
           data-toggle="collapse"
@@ -56,19 +55,30 @@
               >
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#about-us">About Us</a>
+              <a class="nav-link" href="#about-us" aria-label="about us"
+                >About Us</a
+              >
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#gallery">Gallery</a>
+              <a class="nav-link" href="#gallery" aria-label="gallery"
+                >Gallery</a
+              >
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#reviews">Reviews</a>
+              <a class="nav-link" href="#reviews" aria-label="customer reviews"
+                >Reviews</a
+              >
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#order">Order</a>
+              <a class="nav-link" href="#order" aria-label="order">Order</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#contact-us">Contact Us </a>
+              <a
+                class="nav-link"
+                href="#contact-us"
+                aria-label="contact details"
+                >Contact Us
+              </a>
             </li>
           </ul>
         </div>
@@ -184,6 +194,7 @@
             </div>
             <a
               class="carousel-control-prev"
+              aria-label="previous"
               href="#carousel-indicators"
               role="button"
               data-slide="prev"
@@ -196,6 +207,7 @@
             </a>
             <a
               class="carousel-control-next"
+              aria-label="next"
               href="#carousel-indicators"
               role="button"
               data-slide="next"
@@ -267,6 +279,7 @@
                       class="form-control"
                       placeholder="First name"
                       id="first-name"
+                      aria-label="iFrst name"
                     />
                   </div>
 
@@ -277,6 +290,7 @@
                       class="form-control"
                       placeholder="Last name"
                       id="last-name"
+                      aria-label="Last name"
                     />
                   </div>
 
@@ -287,6 +301,7 @@
                       class="form-control"
                       id="email"
                       placeholder="E-mail"
+                      aria-label="E-mail"
                     />
                   </div>
 
@@ -297,12 +312,17 @@
                       class="form-control"
                       id="city"
                       placeholder="City"
+                      aria-label="City"
                     />
                   </div>
 
                   <div class="form-group col-md-6">
                     <label for="datepicker">Proposed delivery date:</label>
-                    <input id="datepicker" placeholder="Pick a date!" />
+                    <input
+                      id="datepicker"
+                      placeholder="Pick a date!"
+                      aria-label="Pick a date"
+                    />
                   </div>
 
                   <div class="form-group col-md-6">
@@ -312,6 +332,7 @@
                       class="form-control"
                       id="phone"
                       placeholder="Telephone"
+                      aria-label="Telephone number"
                     />
                   </div>
                 </div>
@@ -330,6 +351,7 @@
                         id="radio-one"
                         value="12"
                         checked
+                        aria-label="12 slices"
                       />
                       <label class="form-check-label" for="radio-one">
                         12 Slices
@@ -343,6 +365,7 @@
                         name="radios"
                         id="radio-two"
                         value="24"
+                        aria-label="24 slices"
                       />
                       <label class="form-check-label" for="radio-two">
                         24 Slices
@@ -356,33 +379,26 @@
                         name="radios"
                         id="radio-three"
                         value="36"
+                        aria-label="36 slices"
                       />
                       <label class="form-check-label" for="radio-three">
                         36 Slices
                       </label>
                     </div>
 
-                    <div class="form-check">
-                      <input
-                        class="form-check-input"
-                        type="radio"
-                        name="radios"
-                        id="radio-four"
-                      />
-                      <label class="form-check-label" for="radio-four">
-                        Other:
-                      </label>
-                      <input />
-                    </div>
+                    <label class="other-label">Other:</label>
+                    <input class="col-xs-2" aria-label="Custom slices" />
                   </div>
                   <!--Tiers picker-->
                   <div class="form-group col-md-6">
                     <p class="ordersheet-labels">Number of tiers</p>
                     <select class="custom-select" required>
-                      <option value="">Select tiers</option>
-                      <option value="1">1</option>
-                      <option value="2">2</option>
-                      <option value="3">3</option>
+                      <option value="" aria-label="Select tiers">
+                        Select tiers
+                      </option>
+                      <option value="1" aria-label="1 tier">1</option>
+                      <option value="2" aria-label="2 tiers">2</option>
+                      <option value="3" aria-label="3 tiers">3</option>
                     </select>
                     <div class="invalid-feedback">
                       Choose the number of tiers before submitting!
@@ -392,10 +408,21 @@
                   <div class="form-group col-md-6">
                     <p class="ordersheet-labels">Flavour</p>
                     <select class="custom-select" required>
-                      <option value="">Select flavour</option>
-                      <option value="1">Chocolate Raspberry Truffle</option>
-                      <option value="2">Salted Caramel</option>
-                      <option value="3">Black Forest</option>
+                      <option value="" aria-label="Select flavour">
+                        Select flavour
+                      </option>
+                      <option
+                        value="1"
+                        aria-label="Chocolate Raspberry Truffle"
+                      >
+                        Chocolate Raspberry Truffle
+                      </option>
+                      <option value="2" aria-label="Salted Caramel">
+                        Salted Caramel
+                      </option>
+                      <option value="3" aria-label="Black Forest">
+                        Black Forest
+                      </option>
                     </select>
                   </div>
                 </div>
@@ -408,11 +435,13 @@
                   id="textarea"
                   rows="3"
                   placeholder="Type your message here..."
+                  aria-label="Type your message here"
                 ></textarea>
               </div>
               <!--Submit button-->
               <button
                 id="submit-button"
+                aria-label="submit"
                 type="submit"
                 class="btn btn-primary d-flex"
                 data-toggle="modal"
@@ -438,7 +467,7 @@
                         type="button"
                         class="close"
                         data-dismiss="modal"
-                        aria-label="Close"
+                        aria-label="close"
                       >
                         <span aria-hidden="true">&times;</span>
                       </button>
@@ -485,6 +514,7 @@
               id="map-frame"
               class="w-100"
               src="https://maps.google.com/maps?q=manhatan&t=&z=13&ie=UTF8&iwloc=&output=embed"
+              title="Map of business"
             ></iframe>
           </div>
           <!--Image of shop sign-->
@@ -501,10 +531,18 @@
 
     <!--Footer-->
     <footer class="footer container-fluid text-center">
-      <a href="http://facebook.com" rel="noopener" target="_blank"
+      <a
+        href="http://facebook.com"
+        rel="noopener"
+        target="_blank"
+        aria-label="Open facebook"
         ><i class="fa fa-facebook"></i
       ></a>
-      <a href="http://instagram.com" rel="noopener" target="_blank"
+      <a
+        href="http://instagram.com"
+        rel="noopener"
+        target="_blank"
+        aria-label="Open instagram"
         ><i class="fa fa-instagram"></i
       ></a>
     </footer>
