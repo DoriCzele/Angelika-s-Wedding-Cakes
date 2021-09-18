@@ -38,7 +38,7 @@ Should you have any questions regarding my project feel free to reach out to me 
     - [Mobile Wireframe](#mobile-wireframe)
   - [**Features**](#features)
     - [Navigation bar](#navigation-bar)
-    - [Home Section](#home-section)
+    - [Angelika's Wedding Cakes Section](#angelikas-wedding-cakes-section)
     - [Introduction Section](#introduction-section)
     - [Gallery Section](#gallery-section)
     - [Reviews Section](#reviews-section)
@@ -135,9 +135,9 @@ Wireframes are available on the links below:
 
 The responsive and user-friendly navigation bar was created via Bootstrap.  
 
-### Home Section
+### Angelika's Wedding Cakes Section
 
-The Home Section shows the company logo in 100% width.
+The Angelika's Wedding Cakes Section shows the company logo in 100% width. 
 
 ### Introduction Section
 
