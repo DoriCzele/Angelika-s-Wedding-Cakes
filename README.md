@@ -200,6 +200,8 @@ To run the project locally:
 
 ## **Credits**
 
+* Read Me mockup image was created via [Am I Responsive?](http://ami.responsivedesign.is)
+
 * The colour palette was created via [Coolors](https://coolors.co/ "Coolors.co").
 
 * The website's structure was created via [Bootstrap](https://getbootstrap.com/).
