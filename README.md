@@ -44,6 +44,7 @@ Should you have any questions regarding my project feel free to reach out to me 
     - [Reviews Section](#reviews-section)
     - [Order Section](#order-section)
     - [Contact Us Section](#contact-us-section)
+    - [**Features**](#features-1)
   - [**Deployment**](#deployment)
   - [**Credits**](#credits)
 
@@ -154,6 +155,18 @@ The Order Section is created via Bootstrap form elements. It is devided into two
 ### Contact Us Section
 
 The Contact Us Section contains a fluid container with one row. Within the row the first column contains the paragraph headline, the second contains the contact information and integrated google map, the third one contains an image of the shop sign.
+
+### **Features**
+
+* Integrated google map to show shop location.
+* Order sheet to increase direct orders.
+* When order form is submitted correctly, a modal window confirms to customer that all order details has been forwarded to the company.
+* Chat bot that links with the whatsapp of the property
+
+[Back to Top](#table-of-contents)
+
+
+
 
 ## **Deployment**
 
