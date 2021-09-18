@@ -5,6 +5,10 @@
     --accent-gold: #CBB26B;
 }
 
+html{
+    scroll-behavior: smooth;  
+}
+
 /* Signature below introduction */
 #signature {
     font-family: 'Fuggles', cursive;
