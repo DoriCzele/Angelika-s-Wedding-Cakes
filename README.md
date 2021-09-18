@@ -254,8 +254,10 @@ There are no validation settings implemented, therefore the form can be submitte
 The test has passed and all criteria achieved.
 
 ### Bugs
--Navigation bar z-index colliding with the datepiocker icon.
--Had to add a top margin to the banner as when the navbar has been changed to fixed it partially covered the hero image
+
+* Navigation bar z-index colliding with the datepicker icon. A higher z-index value has been set up for the navigation bar to ensure it is not colliding with the datepicker icon. 
+
+* A top margin had to be added to the banner as when the navigation bar has been changed to fixed it partially covered the hero image. 
 
 ### Benchmarking and validation
 
