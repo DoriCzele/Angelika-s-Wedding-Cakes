@@ -170,7 +170,6 @@ The Contact Us Section contains a fluid container with one row. Within the row t
 * Integrated google map to show shop location.
 * Order sheet to increase direct orders.
 * When order form is submitted correctly, a modal window confirms to customer that all order details has been forwarded to the company.
-* Chat bot that links with the whatsapp of the property
 
 [Back to Top](#table-of-contents)
 
